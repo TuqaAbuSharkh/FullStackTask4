@@ -51,14 +51,14 @@ svg{
 .bag{
     margin-top:10px;
     border:white solid 1px;
-    width:200px;
+    width:70%;
     color:aliceblue;
     background-color: blue;
 }
 .heart{
     border:blue 1px solid;
     background-color: white;
-    width:30px;
+    width:20%;
 }
 .clearfix{
     clear:left;
